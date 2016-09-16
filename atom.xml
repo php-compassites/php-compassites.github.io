@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Compassites Tech Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://compassites.github.io/"/>
+  <updated>2016-09-16T09:17:49.660Z</updated>
+  <id>https://compassites.github.io/</id>
+  
+  <author>
+    <name>Kunal Mangaraj</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://compassites.github.io/2016/09/16/hello-world/"/>
+    <id>https://compassites.github.io/2016/09/16/hello-world/</id>
+    <published>2016-09-16T06:10:13.000Z</published>
+    <updated>2016-09-16T09:17:49.660Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Helloadada"><a href="#Helloadada" class="headerlink" title="Helloadada"></a>Helloadada</h2><p>Testing something out</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">echo</span> <span class="string">'testing'</span>;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Helloadada&quot;&gt;&lt;a href=&quot;#Helloadada&quot; class=&quot;headerlink&quot; title=&quot;Helloadada&quot;&gt;&lt;/a&gt;Helloadada&lt;/h2&gt;&lt;p&gt;Testing something out&lt;/p&gt;
+&lt;figure clas
+    
+    </summary>
+    
+      <category term="Test" scheme="https://compassites.github.io/categories/Test/"/>
+    
+      <category term="Foo" scheme="https://compassites.github.io/categories/Test/Foo/"/>
+    
+      <category term="Bar" scheme="https://compassites.github.io/categories/Test/Foo/Bar/"/>
+    
+    
+      <category term="php" scheme="https://compassites.github.io/tags/php/"/>
+    
+      <category term="sample" scheme="https://compassites.github.io/tags/sample/"/>
+    
+  </entry>
+  
+</feed>
